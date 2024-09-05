@@ -25,4 +25,4 @@ This is a simple Movie Recommendation System built using HTML, CSS, and JavaScri
 - Provide more detailed movie information (release date, cast, reviews, etc.).
 
 # 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+The project is available as open source under the terms of the [MIT License](https://github.com/BSKalsi0/Movie_Rec_Website/blob/main/LICENSE).
