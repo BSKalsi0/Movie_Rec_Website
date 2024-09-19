@@ -12,7 +12,7 @@ This is a simple Movie Recommendation System built using HTML, CSS, and JavaScri
 # 💻 Technologies Used
 - HTML5: Markup for the structure of the application.
 - CSS3: Styling and layout.
-- JavaScript (ES6): Logic for recommendation, interaction, and dynamic updates.
+- JavaScript: Logic for recommendation, interaction, and dynamic updates.
 
 # 🔧 Usage
 - Enter a movie title or select preferences such as genre or rating.
