@@ -1,5 +1,6 @@
 # 🎬 Movie Recommendation System
 ![moviemaniass](https://github.com/user-attachments/assets/50c814f5-2b13-444f-8b66-a7917fb91942)
+
 # 📖 Overview
 This is a simple Movie Recommendation System built using HTML, CSS, and JavaScript. The system recommends movies to users based on their preferences, such as genre, rating, or other factors. It's designed to be interactive and user-friendly, providing a personalized experience for each user.
 
